@@ -65,3 +65,4 @@ pnpm pages:dev
 pnpm pages:deploy
 ```
 # nextjs-d1-drizzle-cloudflare-pages
+# nextjs-d1-drizzle-cloudflare-pages
